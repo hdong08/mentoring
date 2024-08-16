@@ -22,3 +22,50 @@
   a. 데스크탑/모바일 어플리케이션
   b. 웹어플리케이션
 
+
+
+
+
+<h1> 문제 해결 보고서</h1>  
+<table align="right">
+  <tr>
+    <td><strong>작성자</strong></td>
+    <td><strong>이름 또는 팀명</strong></td>
+  </tr>
+  <tr>
+    <td><strong>작성일시</strong></td>
+    <td><strong>YYYY-MM-DD HH:MM</strong></td>
+  </tr>
+</table>
+
+<br><br><br><br>
+
+
+
+**주제**: <br>
+**문제 유형**: 
+- [x] 에러 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+- [ ] 실수 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+- [ ] 휴먼 에러 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+- [ ] 지연 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+- [ ] 실패
+<br>
+
+
+**문제상황** :<br>
+
+<img src="https://velog.velcdn.com/images/imfruin95/post/a5fa27c6-fe2e-4cba-a3d4-f3dd6a944ca9/image.PNG" alt="문제 사진" width="600">
+  
+- 문제 설명:
+
+  
+
+**해결방안**:<br>
+**결과**:<br>
+
+
+<!-- 필요하지 않으면 이 항목을 삭제하세요.-->
+**앞으로의 방향**:<br>
+**참조**: [네이버](https://www.naver.com/)<br>
+**기타사항**: 
+
