@@ -42,30 +42,31 @@
 
 
 
-**주제**: <br>
+**주제**: <br><br>
 **문제 유형**: 
 - [x] 에러 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 - [ ] 실수 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 - [ ] 휴먼 에러 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 - [ ] 지연 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 - [ ] 실패
-<br>
+<br><br>
 
 
 **문제상황** :<br>
 
 <img src="https://velog.velcdn.com/images/imfruin95/post/a5fa27c6-fe2e-4cba-a3d4-f3dd6a944ca9/image.PNG" alt="문제 사진" width="600">
   
-- 문제 설명:
+- 문제 설명: <em><code style="color:gray;">발생 지점 포함</code></em>
+<br><br>
 
   
 
-**해결방안**:<br>
-**결과**:<br>
+**해결방안**:<br><br>
+**결과**:<br><br>
 
 
 <!-- 필요하지 않으면 이 항목을 삭제하세요.-->
-**앞으로의 방향**:<br>
-**참조**: [네이버](https://www.naver.com/)<br>
+**앞으로의 방향**:<br><br>
+**참조**: [네이버](https://www.naver.com/)<br><br>
 **기타사항**: 
 
